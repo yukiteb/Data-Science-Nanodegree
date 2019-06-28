@@ -11,7 +11,7 @@ The files are structured as follows:
 # Results and Analysis
 First, we cluster general population of Germany into clusters. We applied the k-means algorithm and elbow method to determine the number of clusters. Below is the average distance of data points as the number of clusters increases.
 
-![Average Distance within Cluster](https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Customer%20Segmentation/num_clusters.PNG){:height="700px" width="400px"}
+![Average Distance within Cluster]/num_clusters.PNG){:height="700px" width="400px"}
 
 From this, we determine that the number of clusters is 10 (this is debatable as the "elbow" is not very clear).
 
