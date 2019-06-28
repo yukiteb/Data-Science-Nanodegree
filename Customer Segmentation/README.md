@@ -1,13 +1,6 @@
 # Customer Segmentation Project
 In this project, we apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
 
-# File Structures
-The files are structured as follows:
-```
-- finding_donors.ipynb # Jupyter Notebook containing full analysis
-- README.md
-```
-
 # Results and Analysis
 First, we cluster general population of Germany into clusters. We applied the k-means algorithm and elbow method to determine the number of clusters. Below is the average distance of data points as the number of clusters increases.
 
@@ -25,4 +18,5 @@ Belos is the result:
 
 <img src="https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Customer%20Segmentation/cluster_proportion.PNG" width="600" height="400">
 
+So for example in cluster 4, 11% in general demographic data and 29% in customer data, which indicate that customer tend to be more in thi segment of demographics. To the contrary, if customers have the same distribution as general population, then there shouldn't be any difference in percetange between the two groups.
 
