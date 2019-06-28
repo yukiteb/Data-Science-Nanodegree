@@ -15,4 +15,6 @@ First, we cluster general population of Germany into clusters. We applied the k-
 
 From this, we determine that the number of clusters is 10 (this is debatable as the "elbow" is not very clear).
 
+![Cluster Proportions](https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Customer%20Segmentation/cluster_proportion.PNG)
+
 
