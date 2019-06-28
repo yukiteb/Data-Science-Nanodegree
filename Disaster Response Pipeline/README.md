@@ -54,9 +54,9 @@ localhost:3001
 ```
 ## Example of the Web app
 If you run the Web app, you will see the overview of the training data as below.
-![Overview of Training Data](https://github.com/yukiteb/DSND-Disaster-Response-Pipelines/blob/master/overview_training_data.PNG)
+![Overview of Training Data](https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Disaster%20Response%20Pipeline/overview_training_data.PNG)
 
 If you type "I am very thirsty" in the message and hit "Classify Message", this is the result. 
 
-![Example Result](https://github.com/yukiteb/DSND-Disaster-Response-Pipelines/blob/master/example_result.PNG)
+![Example Result](https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Disaster%20Response%20Pipeline/example_result.PNG)
 
