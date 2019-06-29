@@ -10,6 +10,10 @@ Below is the glance into the data set
 
 <img src="https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Recommendation%20with%20IBM/user-interaction-data.PNG" width="600" height="180" title="User interaction data">
 
+<b>Content data</b>
+
 <img src="https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Recommendation%20with%20IBM/content-data.PNG" width="900" height="180">
+
+## Recommendation engines
 
 
