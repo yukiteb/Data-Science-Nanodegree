@@ -15,5 +15,8 @@ Below is the glance into the data set
 <img src="https://github.com/yukiteb/Data-Science-Nanodegree/blob/master/Recommendation%20with%20IBM/content-data.PNG" width="900" height="180">
 
 ## Recommendation engines
+We build following 2 recommendation eigines:
 
+- <b>Rank based recommendation engine</b>: This recommendation engines simply recommends the most popular article to any user.
+- <b>Collaborative filtering</b>: This recommendation engine is built on "user-item matrix". Each row of user-item matrix represents unique user, and each column of user-item matrix represents unique article id. Whenever an user has interacted with an article (regardless of how many times the user interacted with the specific article), we note 1 in the corresponding user-item matrix, otherwise we put zero.
 
